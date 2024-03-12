@@ -23,3 +23,5 @@ Where & when:
 
 - **Simple Local RAG**: Guide to implementing a basic RAG model and running locally
 - **Simple Local Agents**: Instructions for developing local AI agents, including setting objectives and designing interactions.
+
+//
