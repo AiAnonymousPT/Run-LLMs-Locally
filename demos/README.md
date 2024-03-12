@@ -1,17 +1,13 @@
 # Demos
 
-Install required packages
+Install required packages (not required for Ollama)
 
 `pipenv install -r requirements.txt`
 
 
 
-## Llama.cpp
 
-[Docs](https://github.com/abetlen/llama-cpp-python)
 
-## HF Transformers
 
-[HuggingFace LLM Docs](https://huggingface.co/docs/transformers/en/llm_tutorial)
 
 ## Local-RAG
