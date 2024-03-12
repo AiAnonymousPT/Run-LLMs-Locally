@@ -6,6 +6,12 @@ Where & when:
 - Thursday, 14/03: 6h30pm - 8pm
 - The  Fintech House [Address: Av. Duque de Loulé 12, Floor -1, 1050-093 Lisboa]
 
+### Materials
+- Slides: [Running LLMs Locally](https://docs.google.com/presentation/d/1J2Bk4Imxq54qhvhcg2i-vPBDrDMfH7HZHW4geJqevds/edit?usp=sharing)
+- [Demo Code](demos/)
+
+
+
 ### **Interactive Discussion**
 
 ### 1.  Requirements for running LLMs locally
