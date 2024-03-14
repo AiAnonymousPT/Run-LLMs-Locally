@@ -8,5 +8,5 @@
 - Install dependencies: Langchain, gpt4all, CrewAI, etc.
 - Download a model through gt4all, move it to ./model folder
 - Run each notebook
-- Check final result (*disclaimer: not financial advice! only for educational purposes*)
+- Check final result (*disclaimer: only for educational purposes*)
 
