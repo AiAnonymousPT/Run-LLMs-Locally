@@ -1,6 +1,5 @@
 # Example result with multiple AI agents on: Generative AI in financial services 
-====
-====
+-----
 **Business Plan for Implementing Generative AI in Financial Services:**
 
 1. **Business Model:**
@@ -29,8 +28,7 @@
 5. **Client Needs:**
     - Understand that client segments in financial services have complex needs. Hence, ensure that the Generative AI solutions developed are comprehensive and can cater to these needs beyond just wealth management.-----
 *disclaimer: not financial advice
-====
-====
+*******
 # Internal logs of agents
 [1m[93m [DEBUG]: == Working Agent: Market Research Analyst[00m
 [1m[93m [INFO]: == Starting Task: Find and summarize the latest potential business ideas on Generative AI in financial services[00m
@@ -337,4 +335,4 @@ Final Answer:
 
 5. **Client Needs:**
     - Understand that client segments in financial services have complex needs. Hence, ensure that the Generative AI solutions developed are comprehensive and can cater to these needs beyond just wealth management.
-======
+-----
