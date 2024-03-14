@@ -1,0 +1,11 @@
+#ignore folders
+data/
+code/
+
+#ignore pipenv files
+pipfile.*
+pip*
+
+#ignore environment files
+*.env
+*.DS_Store

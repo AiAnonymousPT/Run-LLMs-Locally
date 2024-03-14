@@ -1,3 +1,7 @@
 Pipfile
 Pipfile.lock
 demos/models/
+
+#ignore environment files
+*.env
+*.DS_Store
