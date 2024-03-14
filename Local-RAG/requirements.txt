@@ -1,0 +1,10 @@
+pypdf
+langchain
+faiss-cpu
+openai
+sentence-transformers
+langchain-openai
+gradio
+notebook
+unstructured[all-docs]
+chromadb
