@@ -1,13 +1,10 @@
 # Demos
 
-Install required packages (not required for Ollama)
-
-`pipenv install -r requirements.txt`
+Ollama - grab a quantized GGUF and create a custom Modelfile to run locally, see example code
 
 - [ollama](ollama/)
-- [llama-cpp](llama-cpp/)
-- [hf-transformers](hf-transformers/)
-- [local-RAG](local-rag/)
 
-Other Tutorials
-- [Runpod: Ollama on GPU pod](https://docs.runpod.io/tutorials/pods/run-ollama)
+
+Running in Production
+- [HF Transformers + FastAPI on RunPod VM](https://github.com/mswaringen/transformers-fastapi)
+- [Serverless Inference with Llama.CPP on RunPod](https://github.com/mswaringen/runpod-llama-serverless)
