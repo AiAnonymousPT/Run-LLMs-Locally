@@ -8,7 +8,10 @@ Where & when:
 
 ### Materials
 - Slides: [Running LLMs Locally](https://docs.google.com/presentation/d/1J2Bk4Imxq54qhvhcg2i-vPBDrDMfH7HZHW4geJqevds/edit?usp=sharing)
-- [Demo Code](demos/)
+- [Quantize a Model](Quantize-llamacpp/)
+- [Local RAG](Local-RAG/)
+- [Local LLM Agents](Local_LLM_agents/)
+- [Other Examples](demos/)
 
 
 
